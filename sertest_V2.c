@@ -1,9 +1,9 @@
 /**
  * @file sertest.c
  * @brief Advanced C2 Server Test - Real Implementation
- * @author Senior Security Researcher (30+ Years)
- * @version 3.0
- * @date 2024
+ * @author youssefabdelrahman1915@gmail.com
+ * @version 2.0
+
  * 
  * This code demonstrates real C2 server techniques including:
  * - Advanced session management

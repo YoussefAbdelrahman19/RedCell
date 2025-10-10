@@ -1,9 +1,9 @@
 /**
  * @file backdoortest.c
  * @brief Advanced Backdoor Test Client - Real Implementation
- * @author Senior Security Researcher (30+ Years)
- * @version 3.0
- * @date 2024
+ * @author youssefabdelrahman1915@gmail.com
+ * @version 2.0
+
  * 
  * This code demonstrates real backdoor techniques including:
  * - Advanced stealth mode
